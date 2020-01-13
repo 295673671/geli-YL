@@ -23,6 +23,7 @@
     border-radius: 5px;
     text-align: center;
     line-height: 32px;
+    font-size:12px;
 }
 
 .left_box div:nth-child(1) {
@@ -55,6 +56,6 @@
 }
 
 a {
-    color: black;
+    color: #31708f;
     text-decoration: none;
 }
